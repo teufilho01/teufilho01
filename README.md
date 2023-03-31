@@ -1,12 +1,31 @@
-oi eu sou o luan
-eu trabalho em uma lanchonete e estudo no colégio estadual José Gomes do Amaral
-eu estou aprendendo a lidar com o html css e me aprofundando mais em culinária
-pretendo fazer faculdade de adiminisração
-pode entrar em contato comigo pelos emails luan.danielvaleriode.paula@escola.pr.gov.br ou luand@gmail.com
-já tenho um diploma de marketin digital
-moro na cidade de Ponta Grossa estado do Paraná
-
-<!---
-teufilho01/teufilho01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>luan daniel e luis eduardo </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <h1>Colegio Estadual Jose Gomes do Amaral</h1>
+    <h2>Turma 2ºc</h2>
+    <ul>
+        <li>alunos
+        </li>
+        <li>alvaro
+            ana 
+            brayan
+            bruna
+            joyce 
+            luan
+            juliana
+            nivea
+            luis entre outros
+        </li>
+    </ul>
+    <img src="" alt="">
+</header>
+</body>
+</html>
